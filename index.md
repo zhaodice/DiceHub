@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## TRPG Dice Android Application
 
-You can use the [editor on GitHub](https://github.com/zhaodice/app.trpgbot.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+群号: 978563358 1006272130 882167580
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+开发者：赵怡然(484546762)
+### 第一次使用
+点击左上角，单击头像进行登陆，长按头像可以切换账号。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### 疑难解答
 ```markdown
-Syntax highlighted code block
+### Q:当你指令发出去，却没收到回复？
 
-# Header 1
-## Header 2
-### Header 3
+如果：控制台有输出 则：消息被系统屏蔽，请重新登陆账号或多挂几日
 
-- Bulleted
-- List
+如果：控制台没有输出 则：账号未正确上线，请观察有没有收到其他消息，如果没有请重新登陆
 
-1. Numbered
-2. List
+### Q:控制台有收到指令“。r”等，但控制台没有输出对应的回复
 
-**Bold** and _Italic_ and `Code` text
+1.确保骰娘被使用bot on 打开（群内操作）
 
-[Link](url) and ![Image](src)
+2.确保指令前缀为“.”或留空（默认为.），因为指令前缀就是“.r”的“.”，绝不可胡乱修改。
+
+3.如果是关键词自动回复，请确保打开相关开关
+
+4.请观察当前操作账号是否是你操作的账号，保证修改落实
+
+### Q:总是掉线怎么办
+
+1.确保设置后台白名单
+
+2.关闭省电策略
+
+3.允许APP后台跑流量
+
+4.允许锁屏时联网
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaodice/app.trpgbot.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
