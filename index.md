@@ -11,12 +11,7 @@
 
 |  特殊函数   | 功能解释  |
 |  ----  | ----  |
-| #{DRAW-牌堆名}  | 抽取牌堆作为结果，路径为 cocdata/draw |
-| #{PICTURE-文件名}  | 调用图片，路径为 cocdata/pictures |
-| #{VOICE-文件名}  | 调用语音，路径为 cocdata/sound_robot |
-| #{JRRP-盐}  | 根据盐生成JRRP |
-| #{AT-qq号}  | 艾特指定人 |
-| #{SPLIT}  | 分割消息 |
+
 
 |  特殊代码   | 可被自动替换为  |
 |  ----  | ----  |
